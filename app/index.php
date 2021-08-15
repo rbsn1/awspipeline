@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//IETF//DTD HTML 2.0//EN">
    <HEAD>
       <TITLE>
-         Cloud Treinamento
+         Cloud Treinamentos
       </TITLE>
         <style>
         h1 {
