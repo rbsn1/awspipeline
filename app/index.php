@@ -9,7 +9,7 @@
             color: black;
         }
         body {
-            background: rgb(0, 100, 0);
+            background: rgb(131, 111, 255);
             font: normal 18pt arial;
             color: white;
             text-align: center;
